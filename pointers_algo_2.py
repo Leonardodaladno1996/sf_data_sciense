@@ -35,7 +35,7 @@ if stack:
 
 print(answer)
 
-new_stack = []
+dict = {}
 
         
 
